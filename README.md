@@ -1,3 +1,3 @@
-# 7-Zip Versions
+# 7-Zip Updates
 
-Todo: add legal stuff.
+This is a testing branch that you can just ignore.
