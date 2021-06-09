@@ -1,0 +1,348 @@
+﻿;!@Lang@!UTF-8!
+; 7-Zip 2.30 Beta 28
+; Translated by Tran Hong Ha
+; date : 19-03-2003
+; e-mail : hatran@fptnet.com.vn
+; 
+;
+
+00000000 = "Vietnamese"
+00000001 = "Tiếng Việt"
+
+; 7-Zip Configuration
+
+; Tiêu đề
+01000000 = "Cấu hình 7-Zip"
+
+; Trang thông tin
+01000100 = "Thông tin"
+01000103 = "7-Zip là một phần mềm miễn phí. tuy nhiên, nếu bạn thích 7-Zip và muốn hỗ trợ phát triển thêm, xin hãy hiến tặng một ít tiền cho dự án 7-Zip Project."
+01000105 = "Tặng tiền"
+
+; Trang thư mục
+01000200 = "Thư mục"
+01000210 = "&Thư mục làm việc"
+01000211 = "&Thư mục tạm của hệ thống"
+01000212 = "&Hiện hành"
+01000213 = "&Chỉ rõ:"
+01000214 = "Chỉ dùng cho ổ đĩa tháo lắp"
+
+01000281 = "Hãy chỉ ra vị trí cho các tập tin lưu trữ tạm."
+
+; Trang hệ thống
+01000300 = "Hệ thống"
+01000301 = "Tích hợp 7-Zip vào menu ngữ cảnh"
+
+; Trang ngôn ngữ
+01000400 = "Language"
+01000401 = "Ngôn ngữ :"
+
+
+; 7-Zip Explorer extension
+
+; Context Menu 
+02000101 = "7-Zip"
+02000102 = "Các lệnh của 7-Zip"
+02000103 = "Mở"
+02000104 = "Mở archive đã chọn."
+02000105 = "Giải nén các tập tin..."
+02000106 = "Giải nén các tập tin từ archive archive đã chọn."
+02000107 = "Thêm vào archieve..."
+02000108 = "Thêm các tập tin đã chọn vào archive."
+02000109 = "Kiểm tra archieve"
+0200010A = "Tests integrity of the selected archive."
+
+; Properties
+02000203 = "Đường dẫn"
+02000204 = "Tên"
+02000205 = "Phần mở rộng"
+02000206 = "Thư mục"
+02000207 = "Kích thước"
+02000208 = "Kích thước nén"
+02000209 = "Thộc tính"
+0200020A = "Tạo"
+0200020B = "Truy xuất"
+0200020C = "Sửa đổi"
+0200020D = "Solid"
+0200020E = "Ghi chú"
+0200020F = "Mã hóa"
+02000210 = "Cắt trước"
+02000211 = "Cắt sau"
+02000212 = "Từ điển"
+02000213 = "CRC"
+02000214 = "Loại"
+02000215 = "Anti"
+02000216 = "Phương pháp"
+02000217 = "Hệ điều hành"
+02000218 = "Hệ thống tập tin"
+02000219 = "Người dùng"
+0200021A = "Nhóm"
+
+; Status bar
+02000301 = "{0} đối tượng được chọn"
+02000302 = "{0} đối tượng"
+
+; List Context Menu
+02000401 = "&Cột..."
+
+02000411 = "&Mở"
+02000412 = "&Giải nén..."
+
+; Thanh công cụ
+02000501 = "Giải nén"
+
+; Messages
+02000601 = "Thao tác cập nhật không thể áp dụng cho archive này."
+02000602 = "Không thể cập nhật archieve {0}"
+02000603 = "Không thể tạo thư mục '{0}'"
+02000604 = "Tập tin không phải là archieve được hỗ trợ."
+02000605 = "Lỗi"
+02000606 = "Quá nhiều mục"
+02000607 = "Không có chương trình nào được liên kết với phần mở rộng này"
+02000608 = "Không có lỗi"
+
+; Dialogs
+02000702 = "Đồng ý"
+02000705 = "&Có"
+02000707 = "Tất cả đều có"
+02000709 = "&Không"
+0200070B = "Tất cả đều không"
+
+02000710 = "Bỏ"
+02000711 = "&Bỏ"
+02000713 = "&Đóng"
+02000714 = "Dừng"
+
+02000720 = "Giúp đỡ"
+
+; Extract dialog
+02000800 = "Giải nén"
+02000801 = "Giải nén vào :"
+02000802 = "Mật mã"
+
+02000810 = "Path mode"
+02000811 = "Đường dẫn đầy đủ"
+02000812 = "Đường dẫn hiện hành"
+02000813 = "Không có đường dẫn"
+
+02000820 = "Chệ độ ghi đè"
+02000821 = "Hỏi trước khi ghi đè"
+02000822 = "Ghi đè không cần nhắc"
+02000823 = "Bỏ qua tập tin đã tồn tại"
+02000824 = "Tự động đổi tên"
+
+02000830 = "Tập tin"
+02000831 = "&Tập tin được chọn"
+02000832 = "&Tất cả tập tin"
+
+02000881 = "Chỉ ra vị trí để giải nén tập tin."
+
+02000890 = "Đang giải nén"
+
+; Overwrite dialog
+02000900 = "Xác nhận thay thế tập tin"
+02000901 = "Trong thư mục đích đaô có tập tin."
+02000902 = "Bạn có muốn thay thế tập tin đã tồn tại"
+02000903 = "bằng tập tin này?"
+
+02000911 = "Tự động đổi tên"
+
+02000982 = "{0} bytes"
+02000983 = "chỉnh sửa ngày"
+
+; Messages dialog
+02000A00 = "Thông điệp chẩn đoán"
+
+02000A80 = "Thông điệp"
+
+02000A91 = "Phương pháp nén không đươc hỗn trợ trong '{0}'."
+02000A92 = "Lỗi về dữ liệu trong '{0}'. Tập tin bị hỏng."
+02000A93 = "Lỗi CRC trong '{0}'. Tập tin bị hỏng."
+
+; Password dialog
+02000B00 = "Nhập mật khẩu"
+02000B01 = "Nhập mật khẩu :"
+
+; Progress dialog
+02000C00 = "Xử lý"
+
+; Compress dialog
+02000D00 = "Thêm vào archive"
+02000D01 = "&Archive:"
+02000D02 = "&Chế độ cập nhật :"
+02000D03 = "Địng dạng archieve :"
+02000D04 = "Phương pháp nén :"
+02000D05 = "Create &Solid archive"
+02000D06 = "Các thông số :"
+02000D07 = "Tùy chọn"
+02000D08 = "Tạo SF&X archive"
+
+02000D81 = "Lưu trữ"
+02000D82 = "Thường"
+02000D83 = "Tối đa"
+
+02000D90 = "Duyệt"
+
+02000DA1 = "Thêm và thay thế các tập tin"
+02000DA2 = "Cập nhật và thêm tập tin"
+02000DA3 = "Cập nhật tập tin đang có"
+02000DA4 = "Đồng bộ tập tin"
+
+02000DB1 = "Tất cả tập tin"
+
+02000DC0 = "Đang nén"
+
+; Columns dialog
+02000E00 = "Cột"
+02000E01 = "Đánh dấu chọn các cột mà bạn muốn xem trong thư mục này. Dùng các nút LÊN/XUỐNG để thay đổi thứ tự các cột."
+02000E02 = "Cột đã chọn phải rộng"
+02000E03 = "pixels ."
+
+02000E10 = "Chuyển lên"
+02000E11 = "Chuyển xuống"
+02000E12 = "Hiện"
+02000E13 = "Ẩn"
+02000E14 = "Đặt"
+
+02000E81 = "Tiêu đề"
+02000E82 = "Bề rộng"
+
+; Testing
+02000F90 = "Đang kiểm tra"
+
+
+; File Manager
+
+03000000 = "Trình quản lý tập tin 7-Zip"
+
+; Menu
+03000102 = "Tập tin"
+03000103 = "Biên tập"
+03000104 = "Xem"
+03000105 = "Công cụ"
+03000106 = "Giúp đỡ"
+
+; File
+03000210 = "Mở"
+03000211 = "Mở bên trong"
+03000212 = "Mở bên ngoài"
+03000220 = "Xem"
+03000221 = "Biên tập"
+03000230 = "Đổi tên"
+03000231 = "Chép sang..."
+03000232 = "Di chuyển sang..."
+03000233 = "Xóa"
+03000240 = "Thuộc tính"
+03000250 = "Tạo thư mục"
+03000251 = "Tạo tập tin"
+03000260 = "Thoát"
+
+; Edit
+03000310 = "Không làm"
+03000311 = "Làm lại"
+03000320 = "Cắt"
+03000321 = "Chép"
+03000322 = "Dán"
+03000323 = "Xóa"
+03000330 = "Chọn tất cả"
+03000331 = "Bỏ chọn tất cả"
+03000332 = "Chọn ngược lại"
+03000333 = "Chọn..."
+03000334 = "Bỏ chọn..."
+03000335 = "Chọn theo kiểu"
+03000336 = "Bỏ chọn theo kiểu"
+
+; Xem
+03000410 = "Biểu tượng lớn"
+03000411 = "Biểu tượng nhỏ"
+03000412 = "&Danh sách"
+03000413 = "&Chi tiết"
+03000420 = "Không sắp xếp"
+03000430 = "Mở thư mục gốc"
+03000431 = "Lên một cấp"
+03000432 = "Lịch sử thư mục..."
+03000440 = "&Làm tươi"
+
+; Tools
+03000510 = "&Tùy chọn..."
+
+; Help
+03000610 = "&Nội dung..."
+03000620 = "&Giới thiệu về 7-Zip..."
+
+; Options Dialog
+
+03010000 = "Tùy chọn"
+
+; Plugins
+03010100 = "Plugins"
+03010101 = "&Plugins:"
+03010110 = "Tùy chọn..."
+
+; Edit
+03010200 = "Biên tập"
+03010201 = "&Biên tập:"
+
+; System
+03010300 = "Hệ thống"
+03010302 = "Liên kết 7-Zip với :"
+03010310 = "Plugin"
+
+; Strings
+
+03020201 = "Chép"
+03020202 = "Di chuyển"
+03020203 = "Chép sang:"
+03020204 = "Di chuyển sang:"
+03020205 = "Đang chép..."
+03020206 = "Đang di chuyển..."
+03020207 = "Bạn không thể chép hoặc di chuyển các tập tin sang thư mục đó."
+03020208 = "Thao tác không được hỗ trợ."
+
+03020210 = "Xác nhận xóa tập tin"
+03020211 = "Xác nhận xóa thư mục"
+03020212 = "Xác nhận xóa nhiều tập tin"
+03020213 = "Có chắc là bạn muốn xóa '{0}'?"
+03020214 = "Có chắc là bạn muốn xóa thư mục '{0}' và tất cả nội dung của nó?"
+03020215 = "Có chắc là bạn muốn xóa những mục {0} này ?"
+03020216 = "Đang xóa..."
+03020217 = "Lỗi xóa tập tin hoặc thư mục"
+
+03020220 = "Đang đổi tên..."
+03020221 = "Lỗi đổi tên tập tin hoặc thư mục"
+
+03020230 = "Tạo thư mục"
+03020231 = "Tên thư mục :"
+03020232 = "Thư mục mới"
+03020233 = "Lỗi tạo thư mục"
+
+03020240 = "Tạo tập tin"
+03020241 = "Tên tập tin :"
+03020242 = "Tập tin mới"
+03020243 = "Lỗi tạo tập tin"
+
+03020250 = "Chọn"
+03020251 = "Không chọn"
+03020252 = "Mặt nạ :"
+
+03020260 = "Lịch sử thư mục"
+
+03020280 = "Tập tin '{0}' đã bị thay đổi.\nBạn có muốn cập nhật trong archive?"
+03020281 = "Không thể cập nhật tập tin\n'{0}'"
+03020282 = "Không thể bắt đầu trình biên tập."
+03020283 = "Đang mở..."
+
+03020300 = "Máy tính"
+03020301 = "Mạng"
+
+; Computer
+03031100 = "Tổng kích thước"
+03031101 = "Không gian trống"
+03031102 = "Kích thước cluster"
+03031103 = "Nhãn"
+
+; Network
+03031200 = "Tên máy cục bộ"
+03031201 = "Nhà cung cấp"
+
+;!@LangEnd@!
