@@ -6,3 +6,4 @@ There are two additional files in each version that enable update support. 7-Zip
 ### Todo: 
 - add x64 versions starting with version 4.26
 - add legal stuff
+- find versions before 3.13
